@@ -9,3 +9,7 @@ groq==0.5.0
 
 python-dotenv==1.0.1
 requests==2.31.0
+
+# Optional but recommended for stability
+setuptools>=65.0.0
+wheel
